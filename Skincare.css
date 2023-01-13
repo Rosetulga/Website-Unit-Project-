@@ -9,6 +9,11 @@ body{
      margin-bottom: 8;
   }
   
+  p {
+   font-size: 30px;
+}
+    
+
   main {
     color: #000000;
     margin-left: 7em;
@@ -18,7 +23,7 @@ body{
   
   nav {
     float: left;
-    width: 10em;
+    width: 20em;
     background: #F8D7FF;
   }
 
