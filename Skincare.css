@@ -5,14 +5,14 @@ body{
   
   h1 {
      color:#000000;
-     border-bottom: 3px solid;
+     border-bottom: 0px solid;
      margin-bottom: 8;
      font-size: 50px;
   }
   
   main {
     color: #000000;
-    margin-left: 12em;
+    margin-left: 20em;
     padding: 1px 0 1px 5%;
     border-left: 2px;
     font-size: 30px
@@ -27,6 +27,15 @@ body{
     width: 20em;
     background: #F8D7FF;
   }
+
+nav ul {
+     margin: 1;
+     padding: 0;
+     width: 8em;
+     background: white;
+     border: 1px solid;
+
+
 
 .odd {
      background-color:#FA8072;
