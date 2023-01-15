@@ -1,10 +1,10 @@
 body{
-    background: #FFFFFF;
-    color: #560568;
+    background-color: #FEDE3FF;
+    font-family:Garamond,serif;
    }
   
   h1 {
-     color:#000000;
+     color:#402B66;
      border-bottom: 0px solid;
      margin-bottom: 8;
      font-size: 80px;
@@ -27,14 +27,6 @@ body{
     width: 19em;
     background: #F8D7FF;
   }
-
-nav ul {
-     margin: 1;
-     padding: 0;
-     width: 8em;
-     background: white;
-     border: 1px solid;
-
 
 
 .odd {
