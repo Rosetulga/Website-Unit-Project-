@@ -1,6 +1,5 @@
 body{
     background-color: #FEDE3FF;
-    font-family:Garamond,serif;
    }
   
   h1 {
@@ -8,6 +7,7 @@ body{
      border-bottom: 0px solid;
      margin-bottom: 8;
      font-size: 80px;
+     font-family:Garamond,serif;
   }
   
   h2 {
@@ -16,10 +16,12 @@ body{
     padding: 1px 0 1px 5%;
     border-left: 10px;
     font-size: 60px
+    font-family:Garamond,serif;
   }
 
  li {
      font-size: 30px;
+      font-family:Garamond,serif;
 }
   
   nav {
