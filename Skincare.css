@@ -7,15 +7,15 @@ body{
      color:#000000;
      border-bottom: 0px solid;
      margin-bottom: 8;
-     font-size: 50px;
+     font-size: 80px;
   }
   
-  main {
+  h2 {
     color: #000000;
-    margin-left: 20em;
+    margin-left: 50em;
     padding: 1px 0 1px 5%;
-    border-left: 2px;
-    font-size: 30px
+    border-left: 10px;
+    font-size: 60px
   }
 
  li {
@@ -24,7 +24,7 @@ body{
   
   nav {
     float: left;
-    width: 20em;
+    width: 19em;
     background: #F8D7FF;
   }
 
