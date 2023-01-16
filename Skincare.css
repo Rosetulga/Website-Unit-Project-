@@ -43,7 +43,14 @@ nav {
     background-color:#FFF5EE;
 }
 
-.skincareProducts {
-    margin-left: auto;
-    margin-right: auto;
+.skincareProducts { // table
+    border: 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border-spacing: 0px;
+}
+
+.skincareProducts td {
+    border: 1px solid black;
 }
