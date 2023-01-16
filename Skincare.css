@@ -8,6 +8,7 @@ body{
      margin-bottom: 8;
      font-size: 80px;
      font-family:Garamond,serif;
+     text-align:center;
   }
   
   main {
@@ -15,8 +16,9 @@ body{
     margin-left: 20em;
     padding: 1px 0 1px 5%;
     border-left: 10px;
-    font-size: 60px
+    font-size: 100px
     font-family:Garamond,serif;
+    text align:center;
   }
 
  li {
