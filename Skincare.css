@@ -62,3 +62,8 @@ nav {
     border: 1px solid black;
     font-size: 25px;
 }
+
+.skincareProductsHeader {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
