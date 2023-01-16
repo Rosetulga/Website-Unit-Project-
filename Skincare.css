@@ -24,7 +24,11 @@ p {
     color: #3C1461;
 }
 
-li {
+nav li {
+    position:relative;
+    list-style:none;
+    margin:0;
+    border bottom:1px solid;
     font-size: 30px;
     font-family:Garamond,serif;
 }
@@ -35,12 +39,27 @@ nav {
     background: #F8D7FF;
 }
 
+nav ul {
+    margin:0;
+    padding:0;
+    width:19em;
+    background:white;
+    border:1px solid;
+ }
+
+nav ul ul {
+    position: absolute;
+    top:0;
+    left:19em;
+    display:block;
+}
+
 .odd {
     background-color:#FA8072;
 }
 
 .even {
-    background-color:#FFF5EE;
+    background-color:#FDEDE2;
 }
 
 .skincareProducts {
