@@ -15,8 +15,8 @@ body{
     color: #000000;
     margin-left: 30em;
     padding: 1px 0 1px 10%;
-    border-left: 5px;
-    font-size: 60px
+    border-left: 5px solid;
+    font-size: 60px;
     text align: center;
   }
 
