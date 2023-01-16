@@ -23,15 +23,6 @@ p {
     font-family: Garamond,serif;
     color: #3C1461;
 }
-
-nav li {
-    position:relative;
-    list-style:none;
-    margin:0;
-    border bottom:1px solid;
-    font-size: 30px;
-    font-family:Garamond,serif;
-}
   
 nav {
     float: left;
@@ -46,6 +37,15 @@ nav ul {
     background:white;
     border:1px solid;
  }
+
+nav li {
+    position:relative;
+    list-style:circle;
+    margin:0;
+    border bottom:1px solid;
+    font-size: 30px;
+    font-family:Garamond,serif;
+}
 
 nav ul ul {
     position: absolute;
