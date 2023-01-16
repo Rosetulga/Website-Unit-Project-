@@ -1,48 +1,44 @@
-body{
+body {
     background-color: #FEDE3FF;
-   }
+}
   
-  h1 {
-     color:#402B66;
-     border-bottom: 5px solid;
-     margin-bottom: 8;
-     font-size: 80px;
-     font-family:Garamond,serif;
-     text-align:center;
-  }
+h1 {
+    color:#402B66;
+    border-bottom: 5px solid;
+    margin-bottom: 8;
+    font-size: 80px;
+    font-family:Garamond,serif;
+    text-align:center;
+}
   
-  main{
+main {
     color: #000000;
     margin-left: 19em;
     padding: 1px 0 1px 5%;
     border-left: 5px solid;
-  }
-
-  p {
-  font-size: 40px;
-  font-family: Garamond,serif;
-  color: #3C1461;
 }
 
- li {
-     font-size: 30px;
-      font-family:Garamond,serif;
+p {
+    font-size: 40px;
+    font-family: Garamond,serif;
+    color: #3C1461;
+}
+
+li {
+    font-size: 30px;
+    font-family:Garamond,serif;
 }
   
-  nav {
+nav {
     float: left;
     width: 19em;
     background: #F8D7FF;
-  }
-
+}
 
 .odd {
-     background-color:#FA8072;
-     }
+    background-color:#FA8072;
+}
 
 .even {
-     background-color:#FFF5EE;
-     }
-
-
-    
+    background-color:#FFF5EE;
+}
