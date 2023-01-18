@@ -45,14 +45,20 @@ nav li {
     border bottom:1px solid;
     font-size: 30px;
     font-family:Garamond,serif;
+    border:1px solid;
 }
 
 nav ul ul {
     position: absolute;
     top:0;
-    left:19em;
+    left:10em;
     display:block;
 }
+
+nav li a {
+    display: block;
+    padding: 
+    text-decoration: none;
 
 .odd {
     background-color:#FA8072;
