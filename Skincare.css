@@ -54,18 +54,38 @@ nav ul ul {
     position: absolute;
     top:0;
     left:10em;
-    display:block;
-    width:10em,
+    display:none;
+    width:10em;
 }
 
 nav li a {
     display: block;
-    padding: 0.25em 0 0.25em 0.5em
+    padding: 0.25em 0 0.25em 0.5em;
     text-decoration: none;
+}
+
+nav li:hover {
+    background: #F9C0E0;
+}
+
+nav li.submenu {
+    background: url(http://interactivepython.org/runestone/static/webfundamentals/_static/submenu.gif) 95% 50% no-repeat;
+}
+
+nav li.submenu:hover {
+    background-color: #E1A2FF;
+}
+
+
+nav ul.level1 li.submenu:hover ul.level2{
+    display:block;
+}
+
 
 .odd {
     background-color:#FA8072;
 }
+
 
 .even {
     background-color:#FDEDE2;
