@@ -121,3 +121,16 @@ nav ul.level1 li.submenu:hover ul.level2{
 h2 {
     font-size: 35px;
 }
+
+.yes {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.yes1 {
+    margin-left: auto;
+}
+
+.yes2 {
+    margin-right:auto; 
+}
