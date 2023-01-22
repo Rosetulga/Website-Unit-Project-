@@ -1,6 +1,10 @@
 body {
     background-color:#F2FBFF;
 }
+
+.Acne {
+    background-color: #F1DEE4;
+}
   
 h1 {
     color:#402B66;
@@ -19,7 +23,7 @@ main {
 }
 
 p {
-    font-size: 40px;
+    font-size: 50px;
     font-family: Garamond,serif;
     color: #3C1461;
 }
@@ -112,4 +116,8 @@ nav ul.level1 li.submenu:hover ul.level2{
 .skincareProductsHeader {
     padding-top: 30px;   
     padding-bottom: 0px;
+}
+
+h2 {
+    font-size: 35px;
 }
