@@ -123,14 +123,11 @@ h2 {
 }
 
 .yes {
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .yes1 {
-    margin-left: auto;
-}
-
-.yes2 {
-    margin-right:auto; 
+    float: left;
+    padding: 10px;
 }
