@@ -18,7 +18,7 @@ h1 {
 main {
     color: #000000;
     margin-left: 19em;
-    padding: 1px 0 1px 5%;
+    padding: 1px 15px 1px 5%;
     border-left: 5px solid;
 }
 
@@ -136,3 +136,10 @@ h2 {
     padding-left: 80px;
     padding-right: 40px;
 }
+
+CausesAcne {
+    font-size: 30px;
+    font-family: Garamond,serif;
+    color: #3C1461;
+}
+    
